@@ -148,4 +148,4 @@ while True:
         gameOver = False
         score = [0, 0]
         score0_incremented = False
-        score1_incremented = True
+        score1_incremented = False
